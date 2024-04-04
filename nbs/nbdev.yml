@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test_train_model"
+  site-url: "https://daveramsey-ze.github.io/nbdev_test_train_model"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/daveramsey-ze/nbdev_test_train_model"
